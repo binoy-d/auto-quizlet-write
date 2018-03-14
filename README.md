@@ -12,4 +12,4 @@ A chrome extension to automatically finish the Quizlet write activity!
 8. Profit.
 
 # pretty gif
-![Alt Text](https://media.giphy.com/media/4NrL9PkTikgawMalk1/giphy.gif)
+![Alt Text](https://media.giphy.com/media/55gGVexSLQvgTnTJlk/giphy.gif)
