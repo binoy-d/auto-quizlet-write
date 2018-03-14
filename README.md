@@ -10,3 +10,6 @@ A chrome extension to automatically finish the Quizlet write activity!
 6. Try doing the write activity for any quizlet set
 7. ????
 8. Profit.
+
+# pretty gif
+![Alt Text](https://media.giphy.com/media/4NrL9PkTikgawMalk1/giphy.gif)
