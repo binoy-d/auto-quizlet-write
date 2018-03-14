@@ -11,5 +11,7 @@ A chrome extension to automatically finish the Quizlet write activity!
 7. ????
 8. Profit.
 
+(instead of steps 3 & 4, you could also just drag and drop the folder)
+
 # pretty gif
 ![Alt Text](https://media.giphy.com/media/55gGVexSLQvgTnTJlk/giphy.gif)
