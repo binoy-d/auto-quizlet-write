@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Quizlet Write Hack",
+  "version": "0.1",
+   "browser_action": {
+   },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://quizlet.com/*/write"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
