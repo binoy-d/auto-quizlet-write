@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Quizlet Write
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Automatically put in 'booty' as the answer and click the answer button
+// @description  Automatically finish quizlet write activity in seconds!
 // @author       You
 // @match        https://quizlet.com/*/write
 // @grant        none
@@ -26,6 +26,6 @@ for (var i = 0; i < aTags.length; i++) {
   }
 }
             found.click();
-        }, 500);
+        }, 100);
     };
 })();
