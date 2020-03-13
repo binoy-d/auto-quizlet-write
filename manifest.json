@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Quizlet Write Hack",
-  "version": "0.1",
+  "name": "Quizlet Write Bot",
+  "version": "0.0.1",
    "browser_action": {
    },
   "content_scripts": [
